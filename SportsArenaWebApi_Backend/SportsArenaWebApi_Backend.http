@@ -1,0 +1,6 @@
+@SportsArenaWebApi_Backend_HostAddress = http://localhost:5063
+
+GET {{SportsArenaWebApi_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
