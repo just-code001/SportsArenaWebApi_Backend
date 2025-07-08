@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportsArenaWebApi_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4279bdc056bfdb19f475d4ddcc5387880783d26")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ed0fbeb7b547cb3cb2a2a2d3ca4c9a1a294d64")]
+>>>>>>> shani
 [assembly: System.Reflection.AssemblyProductAttribute("SportsArenaWebApi_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportsArenaWebApi_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
