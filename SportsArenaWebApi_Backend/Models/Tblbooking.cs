@@ -15,6 +15,14 @@ public partial class Tblbooking
 
     public bool PaymentPaid { get; set; }
 
+    public string BookingStatus { get; set; } = null!;
+
+    public DateTime BookingDate { get; set; }
+
+    public DateTime CreatedAt { get; set; }
+
+    public DateTime? UpdatedAt { get; set; }
+
     public virtual Tblvenueslot Slot { get; set; } = null!;
 
     public virtual ICollection<Tblpayment> Tblpayments { get; set; } = new List<Tblpayment>();

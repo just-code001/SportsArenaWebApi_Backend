@@ -6,27 +6,18 @@ namespace SportsArenaWebApi_Backend.Models;
 
 public partial class SportsArenaDbContext : DbContext
 {
-    private readonly IConfiguration _configuration;
-    public SportsArenaDbContext(IConfiguration configuration)
+    public SportsArenaDbContext()
     {
-        _configuration = configuration;
     }
 
-    public SportsArenaDbContext(DbContextOptions<SportsArenaDbContext> options, IConfiguration configuration)
+    public SportsArenaDbContext(DbContextOptions<SportsArenaDbContext> options)
         : base(options)
     {
-        _configuration = configuration;
     }
 
     public virtual DbSet<Tblblog> Tblblogs { get; set; }
 
     public virtual DbSet<Tblbooking> Tblbookings { get; set; }
-
-    public virtual DbSet<Tblcafeitem> Tblcafeitems { get; set; }
-
-    public virtual DbSet<Tblcafeorder> Tblcafeorders { get; set; }
-
-    public virtual DbSet<Tblcafeorderdetail> Tblcafeorderdetails { get; set; }
 
     public virtual DbSet<Tblinquiry> Tblinquiries { get; set; }
 
@@ -46,7 +37,7 @@ public partial class SportsArenaDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer(_configuration.GetConnectionString("projectConString"));
+        => optionsBuilder.UseSqlServer("Data Source=SHANIMASHRUWALA;Initial Catalog=SportsArenaDb;Integrated Security=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -83,6 +74,11 @@ public partial class SportsArenaDbContext : DbContext
             entity.ToTable("tblbookings");
 
             entity.Property(e => e.BookingId).HasColumnName("booking_id");
+            entity.Property(e => e.BookingDate).HasDefaultValueSql("(getutcdate())");
+            entity.Property(e => e.BookingStatus)
+                .HasMaxLength(50)
+                .HasDefaultValue("Pending");
+            entity.Property(e => e.CreatedAt).HasDefaultValueSql("(getutcdate())");
             entity.Property(e => e.PayableAmount)
                 .HasColumnType("decimal(10, 2)")
                 .HasColumnName("payable_amount");
@@ -98,68 +94,6 @@ public partial class SportsArenaDbContext : DbContext
                 .HasForeignKey(d => d.UserId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK__tblbookin__user___72910220");
-        });
-
-        modelBuilder.Entity<Tblcafeitem>(entity =>
-        {
-            entity.HasKey(e => e.ItemId).HasName("PK__tblcafei__52020FDD5AB20181");
-
-            entity.ToTable("tblcafeitems");
-
-            entity.Property(e => e.ItemId).HasColumnName("item_id");
-            entity.Property(e => e.AvailableQuantity).HasColumnName("available_quantity");
-            entity.Property(e => e.ItemName)
-                .HasMaxLength(255)
-                .IsUnicode(false)
-                .HasColumnName("item_name");
-            entity.Property(e => e.Price)
-                .HasColumnType("decimal(10, 2)")
-                .HasColumnName("price");
-        });
-
-        modelBuilder.Entity<Tblcafeorder>(entity =>
-        {
-            entity.HasKey(e => e.OrderId).HasName("PK__tblcafeo__465962298145CE46");
-
-            entity.ToTable("tblcafeorders");
-
-            entity.Property(e => e.OrderId).HasColumnName("order_id");
-            entity.Property(e => e.OrderDate)
-                .HasDefaultValueSql("(getdate())")
-                .HasColumnType("datetime")
-                .HasColumnName("order_date");
-            entity.Property(e => e.TotalAmount)
-                .HasColumnType("decimal(10, 2)")
-                .HasColumnName("total_amount");
-            entity.Property(e => e.UserId).HasColumnName("user_id");
-
-            entity.HasOne(d => d.User).WithMany(p => p.Tblcafeorders)
-                .HasForeignKey(d => d.UserId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__tblcafeor__user___02C769E9");
-        });
-
-        modelBuilder.Entity<Tblcafeorderdetail>(entity =>
-        {
-            entity.HasKey(e => e.OrderDetailId).HasName("PK__tblcafeo__3C5A40804FCFDA55");
-
-            entity.ToTable("tblcafeorderdetails");
-
-            entity.Property(e => e.OrderDetailId).HasColumnName("order_detail_id");
-            entity.Property(e => e.ItemId).HasColumnName("item_id");
-            entity.Property(e => e.OrderId).HasColumnName("order_id");
-            entity.Property(e => e.Price)
-                .HasColumnType("decimal(10, 2)")
-                .HasColumnName("price");
-            entity.Property(e => e.Quantity).HasColumnName("quantity");
-
-            entity.HasOne(d => d.Item).WithMany(p => p.Tblcafeorderdetails)
-                .HasForeignKey(d => d.ItemId)
-                .HasConstraintName("FK__tblcafeor__item___0697FACD");
-
-            entity.HasOne(d => d.Order).WithMany(p => p.Tblcafeorderdetails)
-                .HasForeignKey(d => d.OrderId)
-                .HasConstraintName("FK__tblcafeor__order__05A3D694");
         });
 
         modelBuilder.Entity<Tblinquiry>(entity =>
@@ -190,17 +124,19 @@ public partial class SportsArenaDbContext : DbContext
 
             entity.ToTable("tblpayments");
 
-            entity.HasIndex(e => e.TransactionId, "UQ__tblpayme__85C600AE322E3234").IsUnique();
-
             entity.Property(e => e.PaymentId).HasColumnName("payment_id");
             entity.Property(e => e.Amount)
                 .HasColumnType("decimal(10, 2)")
                 .HasColumnName("amount");
             entity.Property(e => e.BookingId).HasColumnName("booking_id");
+            entity.Property(e => e.CreatedAt).HasDefaultValueSql("(getutcdate())");
             entity.Property(e => e.PaymentDate)
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("payment_date");
+            entity.Property(e => e.PaymentMethod)
+                .HasMaxLength(50)
+                .HasDefaultValue("Razorpay");
             entity.Property(e => e.PaymentStatus)
                 .HasMaxLength(50)
                 .IsUnicode(false)

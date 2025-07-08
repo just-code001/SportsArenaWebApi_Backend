@@ -23,8 +23,6 @@ public partial class Tbluser
 
     public virtual ICollection<Tblbooking> Tblbookings { get; set; } = new List<Tblbooking>();
 
-    public virtual ICollection<Tblcafeorder> Tblcafeorders { get; set; } = new List<Tblcafeorder>();
-
     public virtual ICollection<Tblinquiry> Tblinquiries { get; set; } = new List<Tblinquiry>();
 
     public virtual ICollection<Tblreview> Tblreviews { get; set; } = new List<Tblreview>();

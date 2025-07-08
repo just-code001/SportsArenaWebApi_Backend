@@ -1,4 +1,4 @@
-﻿namespace SportsArenaWebApi_Backend.Controllers
+﻿namespace SportsArenaWebApi_Backend.DTOs
 {
     public class GetVenueSlotDto
     {
@@ -8,5 +8,7 @@
         public TimeOnly StartTime { get; set; }
         public TimeOnly EndTime { get; set; }
         public bool IsBooked { get; set; }
+
+        public decimal Priceperhour { get; set; }
     }
 }

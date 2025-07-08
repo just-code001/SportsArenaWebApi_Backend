@@ -117,7 +117,7 @@ namespace SportsArenaWebApi_Backend.Controllers
                 {
                     var allowedExtensions = new[] { ".jpg", ".jpeg", ".png" };
                     var extension = Path.GetExtension(venueImage.FileName).ToLower();
-
+                        
                     if (!allowedExtensions.Contains(extension))
                     {
                         return BadRequest(new { success = false, message = "Invalid image format. Only .jpg, .jpeg, .png allowed." });
@@ -275,6 +275,34 @@ namespace SportsArenaWebApi_Backend.Controllers
             {
                 return StatusCode(500, new { success = false, message = "Internal Server Error", error = ex.Message });
             }
+        }
+
+        // venue fetching for client----------------
+        [Authorize(Roles = "client")] // Only normal users can access
+        [HttpGet("Client/GetAllActiveVenues")]
+        public async Task<ActionResult<IEnumerable<object>>> GetAllActiveVenues()
+        {
+            var venues = await _context.Tblvenues
+                .Where(v => v.IsActive)
+                .Select(v => new
+                {
+                    v.VenueId,
+                    v.Venuename,
+                    v.Location,
+                    v.Description,
+                    v.Capacity,
+                    v.Priceperhour,
+                    v.VenueImage,
+                    CategoryName = v.Category.Categoryname,
+                    ProviderName = v.Provider.Name, // Adjust as per your Tbluser fields
+                })
+                .ToListAsync();
+
+            return Ok(new
+            {
+                success = true,
+                data = venues
+            });
         }
 
 

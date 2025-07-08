@@ -16,7 +16,5 @@ namespace SportsArenaWebApi_Backend.DTOs
         public int Capacity { get; set; }
         [Required]
         public decimal PricePerHour { get; set; }
-        [Required]
-        public IFormFile VenueImage { get; set; } = null!;
     }
 }

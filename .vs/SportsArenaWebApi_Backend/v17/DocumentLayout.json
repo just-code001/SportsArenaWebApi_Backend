@@ -3,105 +3,50 @@
   "WorkspaceRootPath": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblvenueslots.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\controllers\\tblpaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\controllers\\tblpaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\controllers\\tblbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\controllers\\tblbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\controllers\\tblvenueslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\controllers\\tblvenueslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\models\\tblvenueslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\models\\tblvenueslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\dtos\\createvenueslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\dtos\\createvenueslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\controllers\\tblvenuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\controllers\\tblvenuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\controllers\\getvenueslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\controllers\\getvenueslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\dtos\\sportscategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\dtos\\sportscategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\controllers\\tblsportcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\controllers\\tblsportcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\dtos\\createvenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\dtos\\createvenuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\controllers\\tbluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\controllers\\tbluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblvenue.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblusers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\models\\tblblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\models\\tblblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\models\\tblvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\models\\tblvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\models\\sportsarenadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\models\\sportsarenadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS R\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.3\\tools\\about_EntityFrameworkCore.help.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblusers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\controllers\\tblsportcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\controllers\\tblsportcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\models\\tblpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\models\\tblpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\templates\\otptemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\templates\\otptemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\sportsarenawebapi_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\sportsarenawebapi_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\dtos\\sendotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\dtos\\sendotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|e:\\ict_sem_2\\project\\sportsarenawebapi_backend\\sportsarenawebapi_backend\\models\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FA05012-E806-40DB-B715-EBF69858B764}|SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.csproj|solutionrelative:sportsarenawebapi_backend\\models\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -111,7 +56,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -119,321 +64,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.tblvenueslots [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblvenueslots.sql",
-              "ToolTip": "dbo.tblvenueslots [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-10T09:34:50.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetVenueSlotDto.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\GetVenueSlotDto.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\GetVenueSlotDto.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\GetVenueSlotDto.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\GetVenueSlotDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:24:25.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SportsCategoryDto.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\SportsCategoryDto.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\DTOs\\SportsCategoryDto.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\SportsCategoryDto.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\DTOs\\SportsCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:02:20.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TblvenueslotsController.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblvenueslotsController.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\TblvenueslotsController.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblvenueslotsController.cs*",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\TblvenueslotsController.cs*",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAUwO8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T08:46:51.118Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SportsArenaWebApi_Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T05:59:13.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "TblvenueslotsController.cs",
+              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblvenueslotsController.cs",
+              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\TblvenueslotsController.cs",
+              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblvenueslotsController.cs",
+              "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\TblvenueslotsController.cs",
+              "ViewState": "AgIAAFgCAAAAAAAAAAAwwIMCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:00:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TblvenuesController.cs",
               "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblvenuesController.cs",
               "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\TblvenuesController.cs",
               "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblvenuesController.cs",
               "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\TblvenuesController.cs",
-              "ViewState": "AgIAAOoAAAAAAAAAAAAUwP4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABABAAAAAAAAAAAswDoBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T10:15:22.535Z",
+              "WhenOpened": "2025-06-18T06:45:35.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateVenueSlotDto.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\CreateVenueSlotDto.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\DTOs\\CreateVenueSlotDto.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\CreateVenueSlotDto.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\DTOs\\CreateVenueSlotDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Tblvenue.cs",
+              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblvenue.cs",
+              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Models\\Tblvenue.cs",
+              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblvenue.cs",
+              "RelativeToolTip": "SportsArenaWebApi_Backend\\Models\\Tblvenue.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:21:16.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tblvenueslot.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblvenueslot.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Models\\Tblvenueslot.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblvenueslot.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Models\\Tblvenueslot.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAewBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:16:06.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T06:44:58.621Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TblsportcategoriesController.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblsportcategoriesController.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\TblsportcategoriesController.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblsportcategoriesController.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\TblsportcategoriesController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAUwHoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:13:27.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateVenueDto.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\CreateVenueDto.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\DTOs\\CreateVenueDto.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\CreateVenueDto.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\DTOs\\CreateVenueDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T06:27:20.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Tbluser.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tbluser.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Models\\Tbluser.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tbluser.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Models\\Tbluser.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:28:53.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "dbo.tblusers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblusers.sql",
-              "ToolTip": "dbo.tblusers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-10T05:41:38.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TblusersController.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblusersController.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\TblusersController.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblusersController.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\TblusersController.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAowCQBAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:17:19.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterUserDto.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\RegisterUserDto.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\DTOs\\RegisterUserDto.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\RegisterUserDto.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\DTOs\\RegisterUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:11:40.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "dbo.tblvenue [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblvenue.sql",
-              "ToolTip": "dbo.tblvenue [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-10T05:59:39.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Program.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Program.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Program.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:34:14.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\appsettings.json",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\appsettings.json",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T10:45:24.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "SportsArenaDbContext.cs",
               "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\SportsArenaDbContext.cs",
               "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Models\\SportsArenaDbContext.cs",
               "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\SportsArenaDbContext.cs",
               "RelativeToolTip": "SportsArenaWebApi_Backend\\Models\\SportsArenaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:36:43.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "about_EntityFrameworkCore.help.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS R\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.3\\tools\\about_EntityFrameworkCore.help.txt",
+              "ToolTip": "C:\\Users\\ASUS R\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.3\\tools\\about_EntityFrameworkCore.help.txt [Read Only]",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAIAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-18T06:35:27.98Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Program.cs",
+              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Program.cs",
+              "RelativeToolTip": "SportsArenaWebApi_Backend\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T04:40:57.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TblpaymentsController.cs",
+              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblpaymentsController.cs",
+              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\TblpaymentsController.cs",
+              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblpaymentsController.cs",
+              "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\TblpaymentsController.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAgwPsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T04:04:44.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TblbookingsController.cs",
+              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblbookingsController.cs",
+              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\TblbookingsController.cs",
+              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblbookingsController.cs",
+              "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\TblbookingsController.cs",
+              "ViewState": "AgIAAFwDAAAAAAAAAAAswIYDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T04:04:28.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.tblusers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblusers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/SHANIMASHRUWALA/SportsArenaDb/True/SqlTable/dbo.tblusers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-18T03:48:44.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TblsportcategoriesController.cs",
+              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblsportcategoriesController.cs",
+              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Controllers\\TblsportcategoriesController.cs",
+              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Controllers\\TblsportcategoriesController.cs",
+              "RelativeToolTip": "SportsArenaWebApi_Backend\\Controllers\\TblsportcategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:29:10.266Z"
+              "WhenOpened": "2025-06-17T13:09:06.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Tblblog.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblblog.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Models\\Tblblog.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblblog.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Models\\Tblblog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:30:13.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RoleDto.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\RoleDto.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\DTOs\\RoleDto.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\RoleDto.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\DTOs\\RoleDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:44:40.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 11,
               "Title": "Tblpayment.cs",
               "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblpayment.cs",
               "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Models\\Tblpayment.cs",
               "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblpayment.cs",
               "RelativeToolTip": "SportsArenaWebApi_Backend\\Models\\Tblpayment.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:27:05.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SportsArenaWebApi_Backend.http",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.http",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.http",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.http",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-20T10:12:38.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OtpTemplate.html",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Templates\\OtpTemplate.html",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Templates\\OtpTemplate.html",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Templates\\OtpTemplate.html",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Templates\\OtpTemplate.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-23T10:49:22.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SendOtpDto.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\SendOtpDto.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\DTOs\\SendOtpDto.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\SendOtpDto.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\DTOs\\SendOtpDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T09:56:59.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "VerifyOtpDto.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\VerifyOtpDto.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\DTOs\\VerifyOtpDto.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\DTOs\\VerifyOtpDto.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\DTOs\\VerifyOtpDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T09:57:43.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Tblrole.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblrole.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\Models\\Tblrole.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\Models\\Tblrole.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\Models\\Tblrole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:44:46.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "SportsArenaWebApi_Backend\\WeatherForecast.cs",
-              "ToolTip": "E:\\ict_sem_2\\project\\SportsArenaWebApi_Backend\\SportsArenaWebApi_Backend\\WeatherForecast.cs",
-              "RelativeToolTip": "SportsArenaWebApi_Backend\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:34:10.685Z"
+              "WhenOpened": "2025-06-12T08:06:27.515Z"
             }
           ]
         }
